@@ -5,9 +5,9 @@ class student implements Serializable
 
 {
 
-                String name = "Ramu";
+                String name = "yuva";
 
-                String roll = "018";
+                String roll = "023";
 
 }
 
@@ -89,9 +89,9 @@ class student implements Serializable
 
 {
 
-                String name = "Ramu";
+                String name = "yuva";
 
-                String roll = "018";
+                String roll = "023";
 
 }
 
